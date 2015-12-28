@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/javax.json.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/joda-time.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/jollyday.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/protobuf.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/stanford-corenlp-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/stanford-corenlp-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/stanford-corenlp/xom.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/attributes-binder-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/carrot2-core-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/carrot2-guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/jackson-annotations-2.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/jackson-core-2.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/jackson-databind-2.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/lucene-analyzers-common-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/lucene-analyzers-smartcn-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/simple-xml-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/baolingfeng/Tools/carrot2/carrot2-java-api-3.11.0/lib/required/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
